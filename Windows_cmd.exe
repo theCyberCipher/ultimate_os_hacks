@@ -1,0 +1,11 @@
+###   As you know if you wanna download any youtube video to your offilne drives or make it available for offline, You have many ways you can download it by
+ simply click download button very next to your youtube video And Your little smart you will go to any web browser seaech for "download youtube video"
+ and there will list down many sites where you just copy and paste of your needed video link and select the quality you wanted and simply tap download button 
+ and your video will be downloaded But_But_But If you wanna make it cooler, you wanna the highest quality of the video just use my command coded below
+ and make yourself cool in your group.
+1. Open your cmd after having administration permission,
+2. Download the tool by simply pasting the codes one by one - 
+```cmd
+  "winget install yt-dlp " --download the tool
+  "yt-dlp --version" --for version check
+```
